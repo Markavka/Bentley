@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Rubik One Regular';
+	src: url('../fonts/rubik_one_regular.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/rubik_one_regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/rubik_one_regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/rubik_one_regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/rubik_one_regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/rubik_one_regular.svg#rubik_one_regular') format('svg'); /* Chrome < 4, Legacy iOS */
+}
